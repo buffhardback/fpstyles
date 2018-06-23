@@ -1,3 +1,4 @@
+@media screen and (max-width:768px){
 .postrender .postinner > .postuser {
 	padding: 0px;
 }
@@ -26,4 +27,5 @@ span.userlevel {
 
 .postrender .postinner > .postuser .postavatar {
 	margin-top: 1.5rem;
+}
 }
